@@ -4,11 +4,6 @@ title: if, elif and else
 parent: Statements
 nav_order: 2
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # if, elif, else Statements
 

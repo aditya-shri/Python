@@ -3,11 +3,6 @@ layout: default
 title: Modules and Packages
 nav_order: 7
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # Modules and Packages
 
@@ -18,7 +13,7 @@ https://docs.python.org/3/tutorial/modules.html#packages
 
 But I really like the info here: https://python4astronomers.github.io/installation/packages.html
 
-Here's some extra info to help:
+### Here's some extra info to help:
 
 Modules in Python are simply Python files with the .py extension, which implement a set of functions. Modules are imported from other modules using the <code>import</code> command.
 

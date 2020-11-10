@@ -4,11 +4,6 @@ title: Zip Unzip
 parent: Advance Modules
 nav_order: 8
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # Unzipping and Zipping Files
 

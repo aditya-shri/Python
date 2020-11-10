@@ -4,11 +4,6 @@ title: Comparison Operators
 nav_order: 3
 has_children: true
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # Comparison Operators 
 

@@ -1,14 +1,9 @@
 ---
 layout: default
-title: all and any
+title: all() and any()
 parent: Builtin Functions
 nav_order: 6
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # all() and any()
 

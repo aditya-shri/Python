@@ -3,11 +3,6 @@ layout: default
 title: Iterators and Generators
 nav_order: 11
 ---
-___
-
-<a href='https://www.udemy.com/user/joseportilla/'><img src='../Pierian_Data_Logo.png'/></a>
-___
-<center><em>Content Copyright by Pierian Data</em></center>
 
 # Iterators and Generators
 
