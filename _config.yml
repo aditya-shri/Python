@@ -1,0 +1,130 @@
+remote_theme: aditya-shri/just-the-docs
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+color_scheme: dark
+#logo: "/img/java.png"
+
+collections:
+  Advance_Modules:
+    permalink: "/:collection/:path/"
+    output: true
+  Advance_Object_Data:
+    permalink: "/:collection/:path/"
+    output: true
+  Builtin_Functions:
+    permalink: "/:collection/:path/"
+    output: true
+  Comparison_Operators:
+    permalink: "/:collection/:path/"
+    output: true
+  Decorators:
+    permalink: "/:collection/:path/"
+    output: true
+  Emailing:
+    permalink: "/:collection/:path/"
+    output: true
+  Exception:
+    permalink: "/:collection/:path/"
+    output: true
+  Generators:
+    permalink: "/:collection/:path/"
+    output: true
+  Images:
+    permalink: "/:collection/:path/"
+    output: true
+  Methods_and_Functions:
+    permalink: "/:collection/:path/"
+    output: true
+  Modules_and_Packages:
+    permalink: "/:collection/:path/"
+    output: true
+  Object_and_Data_Structure:
+    permalink: "/:collection/:path/"
+    output: true
+  OOPs:
+    permalink: "/:collection/:path/"
+    output: true
+  PDF_Spreadsheets:
+    permalink: "/:collection/:path/"
+    output: true
+  Statements:
+    permalink: "/:collection/:path/"
+    output: true
+  WebScraping:
+    permalink: "/:collection/:path/"
+    output: true
+  
+collections_dir: src
+    
+just-the-docs:
+    collections:
+          Advance_Modules:
+            name: Advance Modules
+            output: true
+            nav_exclude: false
+            search_exclude: false
+          Advance_Object_Data:
+            name: Advance Object and Data
+            nav_exclude: false
+            search_exclude: false
+          Builtin_Functions:
+            name: Builtin Functions
+            nav_exclude: false
+            search_exclude: false
+          Comparison_Operators:
+            name: Comparison Operators
+            nav_exclude: false
+            search_exclude: false
+          Decorators:
+            name: Decorators
+            nav_exclude: false
+            search_exclude: false
+          Emailing:
+            name: Emailing
+            nav_exclude: false
+            search_exclude: false
+          Exception:
+            name: Exception
+            nav_exclude: false
+            search_exclude: false
+          Generators:
+            name: Generators
+            nav_exclude: false
+            search_exclude: false
+          Images:
+            name: Images
+            nav_exclude: false
+            search_exclude: false
+          Methods_and_Functions:
+            name: Methods and Functions
+            nav_exclude: false
+            search_exclude: false
+          Modules_and_Packages:
+            name: Modules and Packages
+            nav_exclude: false
+            search_exclude: false
+          Object_and_Data_Structure:
+            name: Object and Data Structure
+            nav_exclude: false
+            search_exclude: false
+          OOPs:
+            name: OOPs
+            nav_exclude: false
+            search_exclude: false
+          PDF_Spreadsheets:
+            name: PDF Spreadsheets
+            nav_exclude: false
+            search_exclude: false
+          Statements:
+            name: Statements
+            nav_exclude: false
+            search_exclude: false
+          WebScraping:
+            name: WebScraping
+            nav_exclude: false
+            search_exclude: false
