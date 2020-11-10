@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advance Strings
-parent: Advance Object and Data
+parent: Advance Object Data
 nav_order: 2
 ---
 
