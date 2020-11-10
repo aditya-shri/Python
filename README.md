@@ -11,15 +11,13 @@ Below are some facts about Python Programming Language:
 	3.)Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
 	4.)Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
 	5.)The biggest strength of Python is huge collection of standard library which can be used for the following:
-
--Machine Learning
--GUI Applications (like Kivy, Tkinter, PyQt etc. )
--Web frameworks like Django (used by YouTube, Instagram, Dropbox)
--Image processing (like OpenCV, Pillow)
--Web scraping (like Scrapy, BeautifulSoup, Selenium)
--Test frameworks
--Multimedia
--Scientific computing
--Text processing and many more..
-
+		- Machine Learning
+		- GUI Applications (like Kivy, Tkinter, PyQt etc. )
+		- Web frameworks like Django (used by YouTube, Instagram, Dropbox)
+		- Image processing (like OpenCV, Pillow)
+		- Web scraping (like Scrapy, BeautifulSoup, Selenium)
+		- Test frameworks
+		- Multimedia
+		- Scientific computing
+		- Text processing and many more..
 --------
