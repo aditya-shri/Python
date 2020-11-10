@@ -15,11 +15,12 @@ Python is a high-level, general-purpose and a very popular programming language.
 
 Below are some facts about Python Programming Language:
 
-1.Python is currently the most widely used multi-purpose, high-level programming language.
-2.Python allows programming in Object-Oriented and Procedural paradigms.
-3.Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
-4.Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
-5.The biggest strength of Python is huge collection of standard library which can be used for the following:
+	1.)Python is currently the most widely used multi-purpose, high-level programming language.
+	2.)Python allows programming in Object-Oriented and Procedural paradigms.
+	3.)Python programs generally are smaller than other programming languages like Java. Programmers have to type relatively less and indentation requirement of the language, makes them readable all the time.
+	4.)Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber… etc.
+	5.)The biggest strength of Python is huge collection of standard library which can be used for the following:
+
 -Machine Learning
 -GUI Applications (like Kivy, Tkinter, PyQt etc. )
 -Web frameworks like Django (used by YouTube, Instagram, Dropbox)
@@ -29,4 +30,5 @@ Below are some facts about Python Programming Language:
 -Multimedia
 -Scientific computing
 -Text processing and many more..
+
 --------
