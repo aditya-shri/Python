@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advance Lists
-parent: Advance Object Data
+parent: Advance Object and Data
 nav_order: 5
 ---
 

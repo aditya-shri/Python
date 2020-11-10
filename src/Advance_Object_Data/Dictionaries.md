@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Advance Dictionaries
-parent: Advance Object Data
+parent: Advance Object and Data
 nav_order: 4
 ---
 # Advanced Dictionaries

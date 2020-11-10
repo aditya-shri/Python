@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Statement Context Managers
-parent: Advance Object Data
+parent: Advance Object and Data
 nav_order: 6
 ---
 # With Statement Context Managers
