@@ -37,7 +37,7 @@ HTML stands for  Hypertext Markup Language and every website on the internet use
 
 Let's breakdown these components.
 
-Every <tag> indicates a specific block type on the webpage:
+Every '<tag>' indicates a specific block type on the webpage:
 
     1.<DOCTYPE html> HTML documents will always start with this type declaration, letting the browser know its an HTML file.
     2. The component blocks of the HTML document are placed between <html> and </html>.
