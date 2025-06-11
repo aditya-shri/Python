@@ -1,0 +1,81 @@
+/* Sidebar */
+.side-bar {
+  background-color: #000 !important;
+  color: #ddd !important;
+  border-right: 1px solid #222 !important;
+}
+.side-bar .nav-list-link,
+.side-bar .nav-category {
+  color: #aaa !important;
+}
+.side-bar .nav-list-link:hover,
+.side-bar .nav-list-link.active {
+  color: #fff !important;
+  font-weight: bold !important;
+}
+
+.side-bar+.main .main-header {
+  background-color: #000;
+}
+.main-header {
+  border-bottom: 0px;
+}
+.search-input-wrap {
+  max-width: none;
+}
+
+/* Main content */
+body,
+.main-content {
+  background-color: #000 !important;
+  color: #ddd !important;
+}
+.main-content a {
+  color: #1e90ff !important;
+}
+
+/* Headings */
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  color: #fff !important;
+}
+
+/* Code blocks */
+pre,
+code,
+.highlight {
+  background-color: #111 !important;
+  color: #f8f8f2 !important;
+}
+
+/* Tables */
+table {
+  background-color: #111 !important;
+  color: #ddd !important;
+}
+table th,
+table td {
+  border-color: #333 !important;
+}
+
+/* Search bar */
+.search-input,
+.search-result {
+  background-color: #111 !important;
+  color: #eee !important;
+  border: 1px solid #333 !important;
+}
+.search-result:hover {
+  background-color: #1a1a1a !important;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #000 !important;
+  color: #888 !important;
+  border-top: 1px solid #222 !important;
+}

@@ -1,4 +1,4 @@
-remote_theme: aditya-shri/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,7 +6,6 @@ relative_links:
   collections: true
 include:
   - index.md
-color_scheme: dark
 #logo: "/img/java.png"
 
 collections:
